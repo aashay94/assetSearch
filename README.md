@@ -16,11 +16,11 @@ The page will reload if you make edits.<br />
 
 ### Features Implemented
 
--Show a table with all of the assets
--The prices should be updating every second as described above
--Allow to sort for each one of the model fields
--Allow to filter for each one of the model fields
--Add to favorites button
--favorites should be persist to localstorage
+-Show a table with all of the assets <br/>
+-The prices should be updating every second as described above <br/>
+-Allow to sort for each one of the model fields <br/>
+-Allow to filter for each one of the model fields <br/>
+-Add to favorites button <br/>
+-favorites should be persist to localstorage <br/>
 
 
